@@ -20,3 +20,7 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+For the app to work you'll have register for an api key at http://www.omdbapi.com/apikey.aspx
+
+If you got the api key, create .env in the root folder and set your api key to "omdbApiKey=YOUR_API_KEY"
