@@ -1,6 +1,6 @@
 # Nuxt.js_Movie_Search_App
 
-> My tremendous Nuxt.js project
+> Nuxt.js and Vuex
 
 ## Build Setup
 
