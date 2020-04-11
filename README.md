@@ -23,4 +23,4 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 
 For the app to work you'll have register for an api key at http://www.omdbapi.com/apikey.aspx
 
-If you got the api key, create .env in the root folder and set your api key to "omdbApiKey=YOUR_API_KEY"
+If you got the api key, create .env in the root folder and set your api key to "omdbApiKey=YOUR_API_KEY" after this you're good to go!
